@@ -5,4 +5,5 @@ INSTASCRAP - Instagram Scrapper integrated with RapidAPI, built with Python
 <img width="586" alt="Screenshot 2024-08-14 at 6 40 30 PM" src="https://github.com/user-attachments/assets/69a19461-f758-4f43-bc42-aba10b7351a2">
 
 CSV Ecample:
-<img width="983" alt="Screenshot 2024-08-14 at 6 41 27 PM" src="https://github.com/user-attachments/assets/f0d1a39e-0eb0-4438-aec3-41539bab6b17">
+
+<img width="984" alt="Screenshot 2024-08-14 at 9 23 01 PM" src="https://github.com/user-attachments/assets/408a9c21-6bad-4816-87be-6193c921e4d3">
