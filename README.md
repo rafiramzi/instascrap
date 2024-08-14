@@ -1,4 +1,4 @@
-INSTASCRAP - Instagram Scrapper integrated with RapidAPI, built with Python
+**INSTASCRAP - Instagram Scrapper integrated with RapidAPI, built with Python**
 
 <img width="731" alt="Screenshot 2024-08-14 at 6 39 58 PM" src="https://github.com/user-attachments/assets/4163fde3-dbd2-4b2a-9479-b7e05cfe5318">
 
