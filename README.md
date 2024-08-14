@@ -2,7 +2,10 @@
 --
 
 <br>
-<img width="731" alt="Screenshot 2024-08-14 at 6 39 58 PM" src="https://github.com/user-attachments/assets/4163fde3-dbd2-4b2a-9479-b7e05cfe5318">
+<img width="666" alt="Screenshot 2024-08-14 at 10 43 22 PM" src="https://github.com/user-attachments/assets/1b05073b-c82a-45d1-aca8-67372dc45600">
+<br>
+<br>
+<img width="571" alt="Screenshot 2024-08-14 at 10 26 41 PM" src="https://github.com/user-attachments/assets/2b6102b5-afe9-4659-8ed9-23b2e49b73d7">
 <br>
 <br>
 <img width="586" alt="Screenshot 2024-08-14 at 6 40 30 PM" src="https://github.com/user-attachments/assets/69a19461-f758-4f43-bc42-aba10b7351a2">
